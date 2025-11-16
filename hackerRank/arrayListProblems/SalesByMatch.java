@@ -8,6 +8,8 @@
  * Explanation: There are two pairs of socks with color 1 and one pair with color 2.
  */
 
+
+// https://www.hackerrank.com/challenges/sock-merchant/problem
 class SalesByMatch {
     static int sockMerchant(int n, int[] ar) {
         int[] colorCount = new int[101]; // Assuming colors are in the range 0-100
