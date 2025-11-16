@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
+
+// https://www.hackerrank.com/challenges/quicksort1/problem
 class QuicksortPartition {
     static int[] quickSortPartition(int[] arr) {
         int pivot = arr[0];
